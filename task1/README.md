@@ -5,4 +5,4 @@
 A Network_motif project 
 
 Done as part of:
-Bio-bytes, _A life science club at IIIt-D_
+Bio-bytes, _A life science club at IIIT-D_
