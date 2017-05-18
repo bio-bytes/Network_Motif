@@ -8,6 +8,8 @@ Done as part of:
 Bio-bytes, _A life science club at IIIT-D_
 
 Aim is to run a scraper and collect data on existing articles on the topic of Network Motifs.
+
+
 a) __Implementation of a Scraper ( black box | existing git )__
 
 To run the code, type in terminal: _python webscraper.py --phrase "network motifs"_
@@ -18,7 +20,7 @@ The link is: https://github.com/ckreibich/scholar.py/blob/master/scholar.py
 
 b) __Writing a Google Scholar Scraper to search for articles on Network Motifs__
 
-Done using Python 2.7.12
+Done using Python 2.7.12.
 Written by self.
 To run the code, type in terminal: _python scholarscraper.py_
 
